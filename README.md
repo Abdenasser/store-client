@@ -1,4 +1,4 @@
--# store-client
+# store-client
  -
  -1. clone the app repo
  -2. cd to the app directory
